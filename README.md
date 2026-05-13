@@ -449,9 +449,7 @@ emqx ctl clients list
 
 因为：
 
-必须公网暴露家庭 MQTT：
-
-1883
+必须公网暴露家庭 MQTT：1883
 
 存在：
 
@@ -470,12 +468,19 @@ Mosquitto 主动连接 EMQX
 你现在已经实现：
 
 ✅ Home Assistant 本地 MQTT
+
 ✅ Mosquitto Bridge
+
 ✅ 云端 EMQX
+
 ✅ Topic 双向同步
+
 ✅ Frigate 上云
+
 ✅ Traccar 上云
+
 ✅ 本地设备不受影响
+
 ✅ 云端统一 MQTT 接入
 
 已经是标准生产级 MQTT 架构。
