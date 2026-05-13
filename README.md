@@ -116,6 +116,7 @@ connection emqx
 address 59.100.111.222:1883
 
 remote_username mqtt
+
 remote_password 123456
 
 clientid ha_bridge
@@ -220,6 +221,7 @@ connection emqx
 address 59.100.111.222:1883
 
 remote_username mqtt
+
 remote_password 123456
 
 clientid ha_bridge
@@ -246,6 +248,7 @@ connection emqx
 address 59.100.111.222:1883
 
 remote_username mqtt
+
 remote_password 123456
 
 clientid ha_bridge
